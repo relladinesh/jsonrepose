@@ -1,12 +1,18 @@
 {
-  "slug": "sweet-delights",
+  "business_name": "Sweet Delights",
   "designation": "bakery",
-  "name": "Sweet Delights",
   "phone": "+1 800 123 456",
   "email": "orders@sweet.com",
   "address": "123 Cake St.",
   "about": "Best custom cakes in town.",
   "openingHours": "Mon-Fri 8AM-8PM",
+  "item_name": "Chocolate Cake",
+  "item_price": "$25",
+  "item_description": "Rich dark chocolate cake",
+  "item_image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+  "website_url": "https://sweetdelights.com",
+  "slug": "sweet-delights",
+  "name": "Sweet Delights",
   "bestSellers": [
     {
       "name": "Chocolate Cake",

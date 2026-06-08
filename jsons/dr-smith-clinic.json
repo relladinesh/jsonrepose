@@ -1,0 +1,20 @@
+{
+  "business_name": "Dr. Smith Clinic",
+  "designation": "doctor",
+  "phone": "+1 555 123 456",
+  "email": "contact@smithclinic.com",
+  "address": "456 Health Way",
+  "about": "Providing comprehensive medical care.",
+  "openingHours": "Mon-Sat 9AM-5PM",
+  "item_name": "General Checkup",
+  "item_price": "$100",
+  "item_description": "Complete physical examination",
+  "item_image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
+  "website_url": "https://smithclinic.com",
+  "slug": "dr-smith-clinic",
+  "name": "Dr. Smith Clinic",
+  "specialization": "General Checkup",
+  "services": [
+    "Complete physical examination"
+  ]
+}
