@@ -1,0 +1,19 @@
+{
+  "slug": "code-masters",
+  "designation": "coaching",
+  "name": "Code Masters",
+  "phone": "+1 800 999 888",
+  "email": "info@codemasters.com",
+  "address": "Tech Park",
+  "about": "Learn programming fast.",
+  "courses": [
+    "React Bootcamp"
+  ],
+  "successRate": "99%",
+  "instructors": [
+    {
+      "name": "Expert Instructor",
+      "subject": "12 week intensive react bootcamp"
+    }
+  ]
+}
