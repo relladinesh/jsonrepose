@@ -1,0 +1,27 @@
+{
+  "slug": "dr-ramesh",
+  "name": "Dr. Ramesh Kumar",
+  "specialization": "Cardiologist",
+  "experience": "15+ Years",
+  "phone": "+91 9999999999",
+  "email": "doctor@example.com",
+  "address": "Hyderabad, India",
+  "about": "Experienced cardiologist dedicated to providing comprehensive and compassionate heart care. Specializing in advanced diagnostics, interventional procedures, and preventative cardiology to ensure optimal patient outcomes.",
+  "services": [
+    "Heart Checkup",
+    "ECG & Echo",
+    "Consultation",
+    "Angioplasty",
+    "Cardiac Rehabilitation"
+  ],
+  "testimonials": [
+    {
+      "name": "Arjun S.",
+      "review": "Dr. Ramesh is incredible. His thorough approach and clear explanations gave me great confidence in my treatment plan."
+    },
+    {
+      "name": "Priya M.",
+      "review": "The clinic staff is highly professional, and Dr. Ramesh's expertise is evident from the first consultation. Highly recommend!"
+    }
+  ]
+}
