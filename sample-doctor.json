@@ -1,27 +1,36 @@
 {
-  "slug": "dr-ramesh",
-  "name": "Dr. Ramesh Kumar",
-  "specialization": "Cardiologist",
-  "experience": "15+ Years",
-  "phone": "+91 9999999999",
-  "email": "doctor@example.com",
-  "address": "Hyderabad, India",
-  "about": "Experienced cardiologist dedicated to providing comprehensive and compassionate heart care. Specializing in advanced diagnostics, interventional procedures, and preventative cardiology to ensure optimal patient outcomes.",
-  "services": [
-    "Heart Checkup",
-    "ECG & Echo",
-    "Consultation",
-    "Angioplasty",
-    "Cardiac Rehabilitation"
+  "slug": "bakery-test",
+  "designation": "bakery",
+  "name": "Golden Crust Bakery",
+  "phone": "+91 98765 43210",
+  "email": "hello@goldencrust.com",
+  "address": "42 Artisan Lane, Jubilee Hills, Hyderabad",
+  "about": "We believe in the magic of flour, water, and time. Our artisan breads and pastries are hand-crafted daily using century-old sourdough techniques and the finest local ingredients.",
+  "openingHours": "Mon-Sun: 6:00 AM - 9:00 PM",
+  "specialties": [
+    "Artisan Sourdough",
+    "French Pastries",
+    "Custom Wedding Cakes",
+    "Gluten-Free Delights"
   ],
-  "testimonials": [
+  "bestSellers": [
     {
-      "name": "Arjun S.",
-      "review": "Dr. Ramesh is incredible. His thorough approach and clear explanations gave me great confidence in my treatment plan."
+      "name": "Butter Croissant",
+      "price": "₹120",
+      "description": "Perfectly flaky, buttery, and baked fresh every morning.",
+      "image": "https://images.unsplash.com/photo-1555507036-ab1d4075c6f1?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "name": "Priya M.",
-      "review": "The clinic staff is highly professional, and Dr. Ramesh's expertise is evident from the first consultation. Highly recommend!"
+      "name": "Country Sourdough",
+      "price": "₹250",
+      "description": "Our signature loaf with a thick crust and airy, tangy interior.",
+      "image": "https://images.unsplash.com/photo-1589367920969-ab8e050eb0e9?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "name": "Dark Chocolate Tart",
+      "price": "₹180",
+      "description": "Rich Belgian chocolate ganache in a crisp butter shell.",
+      "image": "https://images.unsplash.com/photo-1519869325930-281384150729?q=80&w=1000&auto=format&fit=crop"
     }
   ]
 }
