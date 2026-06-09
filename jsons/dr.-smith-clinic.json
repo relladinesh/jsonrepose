@@ -14,6 +14,7 @@
   "slug": "dr.-smith-clinic",
   "name": "Dr. Smith Clinic",
   "specialization": "General Checkup",
+  "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
   "services": [
     "Complete physical examination"
   ]
