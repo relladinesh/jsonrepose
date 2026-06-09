@@ -1,5 +1,5 @@
 {
-  "business_name": "Crust & Crumb",
+  "business_name": "Crust & Crumb111",
   "designation": "bakery",
   "phone": "+1 555 987 654",
   "email": "hello@crustandcrumb.com",
@@ -11,8 +11,8 @@
   "item_description": "Traditional slow-fermented sourdough",
   "item_image": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
   "website_url": "https://crustandcrumb.com",
-  "slug": "crust-&-crumb",
-  "name": "Crust & Crumb",
+  "slug": "crust-&-crumb111",
+  "name": "Crust & Crumb111",
   "bestSellers": [
     {
       "name": "Sourdough Loaf",
