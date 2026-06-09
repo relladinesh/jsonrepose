@@ -1,5 +1,5 @@
 {
-  "business_name": "Sweet Deligh",
+  "business_name": "Sweet Delighful",
   "designation": "bakery",
   "phone": "+1 800 123 456",
   "email": "orders@sweet.com",
@@ -11,8 +11,8 @@
   "item_description": "Rich dark chocolate cake",
   "item_image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
   "website_url": "https://sweetdelights.com",
-  "slug": "sweet-deligh",
-  "name": "Sweet Deligh",
+  "slug": "sweet-delighful",
+  "name": "Sweet Delighful",
   "bestSellers": [
     {
       "name": "Chocolate Cake",
