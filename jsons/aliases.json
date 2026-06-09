@@ -1,7 +1,8 @@
 {
   "codemasters": "code-masters",
-  "drsmithclinic": "dr-smith-clinic",
-  "crustandcrumb": "crust-and-crumb",
-  "crustcrumb": "crust-and-crumb",
+  "dr.smithclinic": "dr.-smith-clinic",
+  "drsmithclinic": "dr.-smith-clinic",
+  "crust&crumb": "crust-&-crumb",
+  "crustcrumb": "crust-&-crumb",
   "fitnessprime": "fitness-prime"
 }
