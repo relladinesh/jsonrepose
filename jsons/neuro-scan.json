@@ -1,0 +1,21 @@
+{
+  "business_name": "Neuro Scan",
+  "designation": "diagnosis",
+  "phone": "+1 800 555 0199",
+  "email": "admin@neuroscan.com",
+  "address": "Sector 4, Medical District",
+  "about": "Advanced pathological and imaging diagnostics powered by next-generation bio-metrics. We don't guess. We map the data of your health with microscopic accuracy.",
+  "openingHours": "Mon-Fri 24/7",
+  "item_name": "Advanced MRI Scan",
+  "item_price": "$500",
+  "item_description": "High-tesla magnetic resonance scanning",
+  "item_image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69",
+  "website_url": "https://neuroscan.com",
+  "slug": "neuro-scan",
+  "name": "Neuro Scan",
+  "specialization": "Advanced MRI Scan",
+  "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69",
+  "services": [
+    "High-tesla magnetic resonance scanning"
+  ]
+}
