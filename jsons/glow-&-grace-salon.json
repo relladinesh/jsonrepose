@@ -1,0 +1,21 @@
+{
+  "business_name": "Glow & Grace Salon",
+  "designation": "salon",
+  "phone": "+1 555 111 222",
+  "email": "hello@glowandgrace.com",
+  "address": "444 Beauty Blvd",
+  "about": "Premium hair styling and spa treatments.",
+  "openingHours": "Tue-Sun 10AM-8PM",
+  "item_name": "Hair Styling Session",
+  "item_price": "$120",
+  "item_description": "Complete hair makeover and spa therapy",
+  "item_image": "https://images.unsplash.com/photo-1560066984-138dadb4c035",
+  "website_url": "https://glowandgrace.com",
+  "slug": "glow-&-grace-salon",
+  "name": "Glow & Grace Salon",
+  "specialization": "Hair Styling Session",
+  "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035",
+  "services": [
+    "Complete hair makeover and spa therapy"
+  ]
+}
