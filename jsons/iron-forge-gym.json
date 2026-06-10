@@ -9,12 +9,12 @@
   "item_name": "Premium Membership",
   "item_price": "$89",
   "item_description": "Access to all classes and gym floor",
-  "item_image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48",
+  "item_image": "https://images.unsplash.com/photo-1526506114642-5445539d50a2",
   "website_url": "https://ironforgegym.com",
   "slug": "iron-forge-gym",
   "name": "Iron Forge Gym",
   "specialization": "Premium Membership",
-  "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48",
+  "image": "https://images.unsplash.com/photo-1526506114642-5445539d50a2",
   "services": [
     "Access to all classes and gym floor"
   ]
