@@ -1,5 +1,5 @@
 {
-  "business_name": "Elegance Parlour",
+  "business_name": "Elegance",
   "designation": "beauty",
   "phone": "+1 555 333 4444",
   "email": "hello@eleganceparlour.com",
@@ -11,8 +11,8 @@
   "item_description": "Complete relaxation with facial and massage.",
   "item_image": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=800&auto=format&fit=crop",
   "website_url": "https://eleganceparlour.com",
-  "slug": "elegance-parlour",
-  "name": "Elegance Parlour",
+  "slug": "elegance",
+  "name": "Elegance",
   "specialization": "Luxury Spa Package",
   "image": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=800&auto=format&fit=crop",
   "services": [
