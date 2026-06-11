@@ -1,0 +1,26 @@
+{
+  "lead_id": "LD008",
+  "business_name": "Shahnaz sain Beauty",
+  "designation": "salon",
+  "business_type": "Beauty Salon",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "tier": "Tier 1",
+  "pincode": "110048",
+  "address": "Greater Kailash",
+  "phone": "+91 98777 88899",
+  "email": "gk@shahnazhusain.co",
+  "website_url": "",
+  "google_maps_url": "",
+  "slug": "shahnaz-sain-beauty",
+  "name": "Shahnaz sain Beauty",
+  "about": "Premium hair styling, beauty, and spa treatments.",
+  "openingHours": "Tue-Sun 9AM-8PM",
+  "specialization": "Luxury Hair Makeover",
+  "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035",
+  "services": [
+    "Complete styling",
+    "wash",
+    "and blow dry."
+  ]
+}
