@@ -1,0 +1,24 @@
+{
+  "lead_id": "LD024",
+  "business_name": "Dr. Sharma Dental Care",
+  "designation": "doctor",
+  "business_type": "Dental Clinic",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "tier": "Tier 1",
+  "pincode": "110002",
+  "address": "Daryaganj",
+  "phone": "+91 98111 44455",
+  "email": "hello@drsharmadental.in",
+  "website_url": "",
+  "google_maps_url": "",
+  "slug": "dr.-sharma-dental-care",
+  "name": "Dr. Sharma Dental Care",
+  "about": "Providing comprehensive and professional healthcare.",
+  "openingHours": "Mon-Fri 9AM-6PM",
+  "specialization": "General Consultation",
+  "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
+  "services": [
+    "Full medical checkup and health assessment."
+  ]
+}

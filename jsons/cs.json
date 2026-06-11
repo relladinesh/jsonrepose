@@ -1,6 +1,6 @@
 {
   "lead_id": "LD002",
-  "business_name": "Kwality Bakers",
+  "business_name": "cs",
   "designation": "bakery",
   "business_type": "Bakery Shop",
   "city": "Mumbai",
@@ -12,8 +12,8 @@
   "email": "info@kwalitybakers.in",
   "website_url": "",
   "google_maps_url": "",
-  "slug": "kwality-bakers",
-  "name": "Kwality Bakers",
+  "slug": "cs",
+  "name": "cs",
   "about": "Best custom cakes and artisan breads in town.",
   "openingHours": "Mon-Sun 7AM-8PM",
   "bestSellers": [
