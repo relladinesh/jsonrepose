@@ -1,8 +1,9 @@
 {
-  "lead_id": "LD002",
-  "business_name": "cs",
+  "leadId": "LD002",
+  "slug": "cs",
   "designation": "bakery",
-  "business_type": "Bakery Shop",
+  "name": "cs",
+  "businessType": "Bakery Shop",
   "city": "Mumbai",
   "state": "Maharashtra",
   "tier": "Tier 1",
@@ -10,18 +11,6 @@
   "address": "Colaba Causeway",
   "phone": "+91 98222 33344",
   "email": "info@kwalitybakers.in",
-  "website_url": "",
-  "google_maps_url": "",
-  "slug": "cs",
-  "name": "cs",
-  "about": "Best custom cakes and artisan breads in town.",
-  "openingHours": "Mon-Sun 7AM-8PM",
-  "bestSellers": [
-    {
-      "name": "Signature Cake",
-      "price": "$35",
-      "description": "Delicious handmade signature cake.",
-      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587"
-    }
-  ]
+  "website": "",
+  "googleMapsUrl": ""
 }

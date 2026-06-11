@@ -1,8 +1,9 @@
 {
-  "lead_id": "LD014",
-  "business_name": "Metropolis Healthcare",
+  "leadId": "LD014",
+  "slug": "metropolis-healthcare",
   "designation": "diagnosis",
-  "business_type": "Diagnostic Center",
+  "name": "Metropolis Healthcare",
+  "businessType": "Diagnostic Center",
   "city": "Mumbai",
   "state": "Maharashtra",
   "tier": "Tier 1",
@@ -10,15 +11,6 @@
   "address": "Lower Parel",
   "phone": "+91 99444 55566",
   "email": "support@metropolisindia.com",
-  "website_url": "",
-  "google_maps_url": "",
-  "slug": "metropolis-healthcare",
-  "name": "Metropolis Healthcare",
-  "about": "Advanced pathology and imaging diagnostics.",
-  "openingHours": "Mon-Fri 9AM-6PM",
-  "specialization": "Full Body Scan",
-  "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69",
-  "services": [
-    "High-definition diagnostic health scan."
-  ]
+  "website": "",
+  "googleMapsUrl": ""
 }

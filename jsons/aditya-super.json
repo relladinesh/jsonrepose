@@ -1,8 +1,9 @@
 {
-  "lead_id": "LD003",
-  "business_name": "Aditya super",
+  "leadId": "LD003",
+  "slug": "aditya-super",
   "designation": "coaching",
-  "business_type": "Coaching Center",
+  "name": "Aditya super",
+  "businessType": "Coaching Center",
   "city": "Kota",
   "state": "Rajasthan",
   "tier": "Tier 2",
@@ -10,20 +11,6 @@
   "address": "Rajeev Gandhi Nagar",
   "phone": "+91 744 2223344",
   "email": "contact@adityaiit.com",
-  "website_url": "",
-  "google_maps_url": "",
-  "slug": "aditya-super",
-  "name": "Aditya super",
-  "about": "Helping you learn and grow with expert guidance.",
-  "openingHours": "Mon-Fri 9AM-6PM",
-  "courses": [
-    "Expert Bootcamp"
-  ],
-  "successRate": "99%",
-  "instructors": [
-    {
-      "name": "Expert Instructor",
-      "subject": "Intensive professional training program."
-    }
-  ]
+  "website": "",
+  "googleMapsUrl": ""
 }

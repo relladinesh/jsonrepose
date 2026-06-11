@@ -1,8 +1,9 @@
 {
-  "lead_id": "LD016",
-  "business_name": "Kaya Skin Clinic",
+  "leadId": "LD016",
+  "slug": "kaya-skin-clinic",
   "designation": "beauty",
-  "business_type": "Skin Care Clinic",
+  "name": "Kaya Skin Clinic",
+  "businessType": "Skin Care Clinic",
   "city": "Hyderabad",
   "state": "Telangana",
   "tier": "Tier 1",
@@ -10,15 +11,6 @@
   "address": "Banjara Hills",
   "phone": "+91 99666 77788",
   "email": "banjara@kayaclinic.com",
-  "website_url": "",
-  "google_maps_url": "",
-  "slug": "kaya-skin-clinic",
-  "name": "Kaya Skin Clinic",
-  "about": "Luxury beauty treatments in a relaxing and peaceful atmosphere.",
-  "openingHours": "Mon-Fri 9AM-6PM",
-  "specialization": "Premium Facial Spa",
-  "image": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=800",
-  "services": [
-    "Refreshing skin facial and massage."
-  ]
+  "website": "",
+  "googleMapsUrl": ""
 }

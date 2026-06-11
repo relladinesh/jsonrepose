@@ -1,8 +1,9 @@
 {
-  "lead_id": "LD001",
-  "business_name": "Sharma Bakery",
+  "leadId": "LD001",
+  "slug": "sharma-bakery",
   "designation": "bakery",
-  "business_type": "Bakery Shop",
+  "name": "Sharma Bakery",
+  "businessType": "Bakery Shop",
   "city": "New Delhi",
   "state": "Delhi",
   "tier": "Tier 1",
@@ -10,18 +11,6 @@
   "address": "Connaught Place",
   "phone": "+91 98111 22233",
   "email": "sharmabakery@gmail.com",
-  "website_url": "",
-  "google_maps_url": "",
-  "slug": "sharma-bakery",
-  "name": "Sharma Bakery",
-  "about": "Best custom cakes and artisan breads in town.",
-  "openingHours": "Mon-Sun 7AM-8PM",
-  "bestSellers": [
-    {
-      "name": "Signature Cake",
-      "price": "$35",
-      "description": "Delicious handmade signature cake.",
-      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587"
-    }
-  ]
+  "website": "",
+  "googleMapsUrl": ""
 }

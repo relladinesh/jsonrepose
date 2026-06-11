@@ -1,8 +1,9 @@
 {
-  "lead_id": "LD010",
-  "business_name": "Sheru Classic Gym",
+  "leadId": "LD010",
+  "slug": "sheru-classic-gym",
   "designation": "gym",
-  "business_type": "Fitness Center",
+  "name": "Sheru Classic Gym",
+  "businessType": "Fitness Center",
   "city": "Gurugram",
   "state": "Haryana",
   "tier": "Tier 1",
@@ -10,15 +11,6 @@
   "address": "DLF Phase 3",
   "phone": "+91 98999 00011",
   "email": "info@sheruclassic.in",
-  "website_url": "",
-  "google_maps_url": "",
-  "slug": "sheru-classic-gym",
-  "name": "Sheru Classic Gym",
-  "about": "State of the art fitness center to reach your physical potential.",
-  "openingHours": "Mon-Fri 9AM-6PM",
-  "specialization": "Premium Membership",
-  "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=2000",
-  "services": [
-    "Full access to all training facilities and classes."
-  ]
+  "website": "",
+  "googleMapsUrl": ""
 }

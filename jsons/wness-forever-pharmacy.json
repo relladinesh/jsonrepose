@@ -1,8 +1,9 @@
 {
-  "lead_id": "LD021",
-  "business_name": "Wness Forever Pharmacy",
+  "leadId": "LD021",
+  "slug": "wness-forever-pharmacy",
   "designation": "medicalstore",
-  "business_type": "Pharmacy",
+  "name": "Wness Forever Pharmacy",
+  "businessType": "Pharmacy",
   "city": "Pune",
   "state": "Maharashtra",
   "tier": "Tier 1",
@@ -10,15 +11,6 @@
   "address": "Kalyani Nagar",
   "phone": "+91 99999 00011",
   "email": "info@wellnessforever.in",
-  "website_url": "",
-  "google_maps_url": "",
-  "slug": "wness-forever-pharmacy",
-  "name": "Wness Forever Pharmacy",
-  "about": "Your trusted local pharmacy and wellness supply center.",
-  "openingHours": "Mon-Fri 9AM-6PM",
-  "specialization": "Wellness Vitamins Pack",
-  "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843",
-  "services": [
-    "Essential daily multivitamin supply."
-  ]
+  "website": "",
+  "googleMapsUrl": ""
 }

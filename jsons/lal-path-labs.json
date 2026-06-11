@@ -1,8 +1,9 @@
 {
-  "lead_id": "LD013",
-  "business_name": "Lal PathLabs",
+  "leadId": "LD013",
+  "slug": "lal-path-labs",
   "designation": "diagnosis",
-  "business_type": "Diagnostic Center",
+  "name": "Lal PathLabs",
+  "businessType": "Diagnostic Center",
   "city": "New Delhi",
   "state": "Delhi",
   "tier": "Tier 1",
@@ -10,15 +11,6 @@
   "address": "Pusa Road",
   "phone": "+91 99333 44455",
   "email": "pusa@lalpathlabs.com",
-  "website_url": "",
-  "google_maps_url": "",
-  "slug": "lal-path-labs",
-  "name": "Lal PathLabs",
-  "about": "Advanced pathology and imaging diagnostics.",
-  "openingHours": "Mon-Fri 9AM-6PM",
-  "specialization": "Full Body Scan",
-  "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69",
-  "services": [
-    "High-definition diagnostic health scan."
-  ]
+  "website": "",
+  "googleMapsUrl": ""
 }

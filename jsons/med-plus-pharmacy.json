@@ -1,8 +1,9 @@
 {
-  "lead_id": "LD018",
-  "business_name": "MedPlus Pharmacy",
+  "leadId": "LD018",
+  "slug": "med-plus-pharmacy",
   "designation": "medicalstore",
-  "business_type": "Pharmacy",
+  "name": "MedPlus Pharmacy",
+  "businessType": "Pharmacy",
   "city": "Chennai",
   "state": "Tamil Nadu",
   "tier": "Tier 1",
@@ -10,15 +11,6 @@
   "address": "Mount Road",
   "phone": "+91 99888 99900",
   "email": "mountroad@medplusindia.com",
-  "website_url": "",
-  "google_maps_url": "",
-  "slug": "med-plus-pharmacy",
-  "name": "MedPlus Pharmacy",
-  "about": "Your trusted local pharmacy and wellness supply center.",
-  "openingHours": "Mon-Fri 9AM-6PM",
-  "specialization": "Wellness Vitamins Pack",
-  "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843",
-  "services": [
-    "Essential daily multivitamin supply."
-  ]
+  "website": "",
+  "googleMapsUrl": ""
 }

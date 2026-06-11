@@ -1,8 +1,9 @@
 {
-  "lead_id": "LD005",
-  "business_name": "Dr. Roy Family Clinic",
+  "leadId": "LD005",
+  "slug": "dr.-roy-family-clinic",
   "designation": "doctor",
-  "business_type": "Clinic",
+  "name": "Dr. Roy Family Clinic",
+  "businessType": "Clinic",
   "city": "Kolkata",
   "state": "West Bengal",
   "tier": "Tier 1",
@@ -10,15 +11,6 @@
   "address": "Rashbehari Avenue",
   "phone": "+91 98444 55566",
   "email": "contact@drroyclinic.com",
-  "website_url": "",
-  "google_maps_url": "",
-  "slug": "dr.-roy-family-clinic",
-  "name": "Dr. Roy Family Clinic",
-  "about": "Providing comprehensive and professional healthcare.",
-  "openingHours": "Mon-Fri 9AM-6PM",
-  "specialization": "General Consultation",
-  "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
-  "services": [
-    "Full medical checkup and health assessment."
-  ]
+  "website": "",
+  "googleMapsUrl": ""
 }
