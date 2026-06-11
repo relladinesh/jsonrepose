@@ -1,0 +1,29 @@
+{
+  "lead_id": "LD003",
+  "business_name": "Aditya",
+  "designation": "coaching",
+  "business_type": "Coaching Center",
+  "city": "Kota",
+  "state": "Rajasthan",
+  "tier": "Tier 2",
+  "pincode": "324005",
+  "address": "Rajeev Gandhi Nagar",
+  "phone": "+91 744 2223344",
+  "email": "contact@adityaiit.com",
+  "website_url": "",
+  "google_maps_url": "",
+  "slug": "aditya",
+  "name": "Aditya",
+  "about": "Helping you learn and grow with expert guidance.",
+  "openingHours": "Mon-Fri 9AM-6PM",
+  "courses": [
+    "Expert Bootcamp"
+  ],
+  "successRate": "99%",
+  "instructors": [
+    {
+      "name": "Expert Instructor",
+      "subject": "Intensive professional training program."
+    }
+  ]
+}
