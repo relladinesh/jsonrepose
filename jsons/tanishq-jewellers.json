@@ -1,0 +1,24 @@
+{
+  "lead_id": "LD011",
+  "business_name": "Tanishq Jewellers",
+  "designation": "jewelry",
+  "business_type": "Jewelry Store",
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "tier": "Tier 1",
+  "pincode": "600017",
+  "address": "T Nagar",
+  "phone": "+91 99111 22233",
+  "email": "tnagar@tanishq.co.in",
+  "website_url": "",
+  "google_maps_url": "",
+  "slug": "tanishq-jewellers",
+  "name": "Tanishq Jewellers",
+  "about": "Exquisite handcrafted fine jewelry for life's precious moments.",
+  "openingHours": "Mon-Fri 9AM-6PM",
+  "specialization": "Diamond Engagement Ring",
+  "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?q=80&w=2000",
+  "services": [
+    "Handcrafted 1-carat premium diamond ring."
+  ]
+}

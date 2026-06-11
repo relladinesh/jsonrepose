@@ -1,0 +1,24 @@
+{
+  "lead_id": "LD009",
+  "business_name": "Gold Gym Pune",
+  "designation": "gym",
+  "business_type": "Fitness Center",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "tier": "Tier 1",
+  "pincode": "411001",
+  "address": "Koregaon Park",
+  "phone": "+91 98888 99900",
+  "email": "pune@goldgymindia.com",
+  "website_url": "",
+  "google_maps_url": "",
+  "slug": "gold-gym-pune",
+  "name": "Gold Gym Pune",
+  "about": "State of the art fitness center to reach your physical potential.",
+  "openingHours": "Mon-Fri 9AM-6PM",
+  "specialization": "Premium Membership",
+  "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=2000",
+  "services": [
+    "Full access to all training facilities and classes."
+  ]
+}

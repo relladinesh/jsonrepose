@@ -1,0 +1,24 @@
+{
+  "lead_id": "LD012",
+  "business_name": "Kalyan Jewellers",
+  "designation": "jewelry",
+  "business_type": "Jewelry Store",
+  "city": "Thrissur",
+  "state": "Kerala",
+  "tier": "Tier 2",
+  "pincode": "680001",
+  "address": "Round East",
+  "phone": "+91 99222 33344",
+  "email": "thrissur@kalyan.co.in",
+  "website_url": "",
+  "google_maps_url": "",
+  "slug": "kalyan-jewellers",
+  "name": "Kalyan Jewellers",
+  "about": "Exquisite handcrafted fine jewelry for life's precious moments.",
+  "openingHours": "Mon-Fri 9AM-6PM",
+  "specialization": "Diamond Engagement Ring",
+  "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?q=80&w=2000",
+  "services": [
+    "Handcrafted 1-carat premium diamond ring."
+  ]
+}

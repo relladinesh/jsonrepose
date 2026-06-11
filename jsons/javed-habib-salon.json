@@ -1,0 +1,26 @@
+{
+  "lead_id": "LD007",
+  "business_name": "Javed Habib Salon",
+  "designation": "salon",
+  "business_type": "Beauty Salon",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "tier": "Tier 1",
+  "pincode": "400053",
+  "address": "Andheri West",
+  "phone": "+91 98666 77788",
+  "email": "booking@javedhabibmumbai.com",
+  "website_url": "",
+  "google_maps_url": "",
+  "slug": "javed-habib-salon",
+  "name": "Javed Habib Salon",
+  "about": "Premium hair styling, beauty, and spa treatments.",
+  "openingHours": "Tue-Sun 9AM-8PM",
+  "specialization": "Luxury Hair Makeover",
+  "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035",
+  "services": [
+    "Complete styling",
+    "wash",
+    "and blow dry."
+  ]
+}

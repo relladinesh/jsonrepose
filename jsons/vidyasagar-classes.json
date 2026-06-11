@@ -1,0 +1,29 @@
+{
+  "lead_id": "LD004",
+  "business_name": "Vidyasagar Classes",
+  "designation": "coaching",
+  "business_type": "Coaching Center",
+  "city": "Kolkata",
+  "state": "West Bengal",
+  "tier": "Tier 1",
+  "pincode": "700012",
+  "address": "College Street",
+  "phone": "+91 98333 44455",
+  "email": "info@vidyasagarclasses.org",
+  "website_url": "",
+  "google_maps_url": "",
+  "slug": "vidyasagar-classes",
+  "name": "Vidyasagar Classes",
+  "about": "Helping you learn and grow with expert guidance.",
+  "openingHours": "Mon-Fri 9AM-6PM",
+  "courses": [
+    "Expert Bootcamp"
+  ],
+  "successRate": "99%",
+  "instructors": [
+    {
+      "name": "Expert Instructor",
+      "subject": "Intensive professional training program."
+    }
+  ]
+}

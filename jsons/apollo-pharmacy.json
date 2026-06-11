@@ -1,0 +1,24 @@
+{
+  "lead_id": "LD017",
+  "business_name": "Apollo Pharmacy",
+  "designation": "medicalstore",
+  "business_type": "Pharmacy",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "tier": "Tier 1",
+  "pincode": "500001",
+  "address": "Abids",
+  "phone": "+91 99777 88899",
+  "email": "abids@apollopharmacy.in",
+  "website_url": "",
+  "google_maps_url": "",
+  "slug": "apollo-pharmacy",
+  "name": "Apollo Pharmacy",
+  "about": "Your trusted local pharmacy and wellness supply center.",
+  "openingHours": "Mon-Fri 9AM-6PM",
+  "specialization": "Wellness Vitamins Pack",
+  "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843",
+  "services": [
+    "Essential daily multivitamin supply."
+  ]
+}
