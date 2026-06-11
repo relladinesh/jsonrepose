@@ -1,0 +1,21 @@
+{
+  "business_name": "Elegance Parlour",
+  "designation": "beauty",
+  "phone": "+1 555 333 4444",
+  "email": "hello@eleganceparlour.com",
+  "address": "777 Beauty Blvd, NY",
+  "about": "Experience premium beauty treatments in a relaxing and luxurious atmosphere.",
+  "openingHours": "Mon-Sun 9AM-8PM",
+  "item_name": "Luxury Spa Package",
+  "item_price": "$199",
+  "item_description": "Complete relaxation with facial and massage.",
+  "item_image": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=800&auto=format&fit=crop",
+  "website_url": "https://eleganceparlour.com",
+  "slug": "elegance-parlour",
+  "name": "Elegance Parlour",
+  "specialization": "Luxury Spa Package",
+  "image": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=800&auto=format&fit=crop",
+  "services": [
+    "Complete relaxation with facial and massage."
+  ]
+}
