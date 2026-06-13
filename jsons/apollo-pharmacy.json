@@ -1,16 +1,16 @@
 {
-  "leadId": "LD017",
+  "leadId": "1951",
   "slug": "apollo-pharmacy",
-  "designation": "medicalstore",
+  "designation": "healthcare",
   "name": "Apollo Pharmacy",
-  "businessType": "Pharmacy",
-  "city": "Hyderabad",
+  "businessType": "Pharmacy / Medical Store",
+  "city": "Warangal",
   "state": "Telangana",
-  "tier": "Tier 1",
-  "pincode": "500001",
-  "address": "Abids",
-  "phone": "+91 99777 88899",
-  "email": "abids@apollopharmacy.in",
-  "website": "",
-  "googleMapsUrl": ""
+  "tier": "Tier 2",
+  "pincode": "506013",
+  "address": "16-12-199, 16-12-163, Narsampet Rd, opp. Old ESI Hospital Gate TRT, TRT Colony, Abbanikunta, Labour Colony, Warangal, Telangana 506013, India",
+  "phone": "",
+  "email": "",
+  "website": "https://www.apollopharmacy.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10312661500514670280"
 }
